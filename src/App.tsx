@@ -22,7 +22,7 @@ function App() {
     if (open) {
       setTimeout(() => {
         setShowBtn(true)
-      }, 2000);
+      }, 1800);
     }
   }, [open])
 
